@@ -11,7 +11,7 @@ This is the project website for CMSC498Z Fall 2025. Please use the navigation ba
 
 ## Deadlines
 
-[x] Oct 5, 2025 - Meet with the instructor to discuss possible project ideas.
-[ ] Oct 16, 2025 - Project Proposal Presentation
-[ ] Nov 18-20, 2025 - Progress Report
-[ ] Dec 19, 2025 - Final Project Presentation & Demo
+- [x] Oct 5, 2025 - Meet with the instructor to discuss possible project ideas.
+- [ ] Oct 16, 2025 - Project Proposal Presentation
+- [ ] Nov 18-20, 2025 - Progress Report
+- [ ] Dec 19, 2025 - Final Project Presentation & Demo
